@@ -1,0 +1,2 @@
+This is a Test text file.
+Before thi line will be a changed line.
