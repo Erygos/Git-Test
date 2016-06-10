@@ -1,3 +1,4 @@
 This is a Test text file.
 This is a changed line
 Before thi line will be a changed line.
+Second change
